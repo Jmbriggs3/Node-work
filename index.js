@@ -1,1 +1,3 @@
-console.log(2+4);
+var variables = require("./variables.js");
+
+console.log(variables);
